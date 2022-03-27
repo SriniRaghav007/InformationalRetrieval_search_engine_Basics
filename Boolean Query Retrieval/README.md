@@ -5,8 +5,8 @@
 
 # Dataset used:
 
-Dataset used is **Wikipedia Toxicity**.
-Link is: [dataset](https://www.kaggle.com/datasets/manishguptads/wikipedia-toxicity) .
+Dataset used is **Twitter Threads**.
+Link is: [dataset](https://www.kaggle.com/datasets/danielgrijalvas/twitter-threads) .
 
 ## Method
 

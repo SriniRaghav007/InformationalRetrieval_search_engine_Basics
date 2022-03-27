@@ -1,4 +1,4 @@
 # Dataset: 
-Wikipedia Toxicity
+Twitter Threads
 # Link:
-https://www.kaggle.com/datasets/manishguptads/wikipedia-toxicity
+https://www.kaggle.com/datasets/danielgrijalvas/twitter-threads
